@@ -12,7 +12,7 @@
 	<dict>
 		<key>1D693BC7FDDC4814279C829C254166D7D019A527</key>
 		<string>gitcafe.com:Zchan/StudentManagement.git</string>
-		<key>248AFB6E6B6399FA0CA7006EE5B45C1CF1AFA3A5</key>
+		<key>C9503517EC3429AE48452AA8376A27D461171F43</key>
 		<string>gitcafe.com:Zchan/StudentManagementWithCoreData.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
@@ -21,7 +21,7 @@
 	<dict>
 		<key>1D693BC7FDDC4814279C829C254166D7D019A527</key>
 		<string>../../../StudentManagement</string>
-		<key>248AFB6E6B6399FA0CA7006EE5B45C1CF1AFA3A5</key>
+		<key>C9503517EC3429AE48452AA8376A27D461171F43</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -29,7 +29,7 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>248AFB6E6B6399FA0CA7006EE5B45C1CF1AFA3A5</string>
+	<string>C9503517EC3429AE48452AA8376A27D461171F43</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -44,7 +44,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>248AFB6E6B6399FA0CA7006EE5B45C1CF1AFA3A5</string>
+			<string>C9503517EC3429AE48452AA8376A27D461171F43</string>
 			<key>IDESourceControlWCCName</key>
 			<string>StudentWithCoreData</string>
 		</dict>
